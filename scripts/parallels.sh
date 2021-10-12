@@ -4,8 +4,7 @@
 HOME_DIR="${HOME_DIR:-/home/vagrant}";
 
 case "$PACKER_BUILDER_TYPE" in
-#parallels-iso|parallels-pvm)
-parallels-pvm)
+parallels-iso|parallels-pvm)
     mkdir -p /tmp/parallels;
     mount -o loop $HOME_DIR/prl-tools-lin.iso /tmp/parallels;
     VER="`cat /tmp/parallels/version`";
