@@ -32,7 +32,6 @@
       "iso_url": "{{user `mirror`}}/{{user `mirror_directory`}}/{{user `iso_name`}}",
       "memory": "{{ user `memory` }}",
       "output_directory": "{{ user `build_directory` }}/packer-{{user `template`}}-parallels",
-      "parallels_tools_mode": "disable",
       "parallels_tools_flavor": "lin",
       "prlctl_version_file": ".prlctl_version",
       "shutdown_command": "echo 'vagrant' | sudo -S shutdown -P now",
