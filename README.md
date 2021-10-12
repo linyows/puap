@@ -81,3 +81,16 @@ EOL
 $ echo -e '{"provider":"parallels"}\n' > ./metadata.json
 $ tar cvzf ubuntu-(20|21).04.parallels.box ./ubuntu-(20|21).04-arm64.pvm  ./metadata.json ./Vagrantfile
 ```
+
+Vagrant Cloud
+--
+
+Links:
+
+- https://app.vagrantup.com/linyows/boxes/ubuntu-21.04-arm64
+- https://app.vagrantup.com/linyows/boxes/ubuntu-20.04-arm64
+
+Author
+--
+
+[linyows](https://github.com/linyows)
