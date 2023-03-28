@@ -10,7 +10,7 @@ Requirement
 Require these:
 
 - [Apple Silicon Mac](https://www.apple.com/mac/)
-- [Prallels Pro Edition](https://www.parallels.com/jp/products/desktop/pro/)
+- [Parallels Pro Edition](https://www.parallels.com/jp/products/desktop/pro/)
 - [Packer](https://www.packer.io/)
 
 Usage
