@@ -1,4 +1,4 @@
-Packer template as Ubuntu for ARM with Prallels
+Packer template as Ubuntu for ARM with Parallels
 ==
 
 This is Packer templates to build a Vagrant box as Ubuntu for ARM with Parallels on Apple silicon.
